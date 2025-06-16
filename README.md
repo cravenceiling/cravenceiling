@@ -1,17 +1,12 @@
 ### Hi there/
-
-<div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bagrisham.com%2Fwp-content%2Fuploads%2F2018%2F11%2Frain.gif&f=1&nofb=1&ipt=065de4735a6407d8c59575e0394f8f904f9431fb3bef070a9a62f9bf16e700d1&ipo=images" align="center" style="width: 30%" />
-</div>  
   
-
 ### <div align="center">I'm Daniel, a software developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [T3 Gallery](https://github.com/timetravel-1010/t3-gallery)  
+- 🔭 I’m currently working on [Cappih](https://github.com/timetravel-1010/cappih)
   
 
-- 🌱 I’m currently learning TypeScript,ReactJS and NextJS.
+- 🌱 I’m currently learning about Next.js and Go.
   
 
 - ⚡ Fun fact: I use GNU/Linux and Vim btw.  
