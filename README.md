@@ -3,7 +3,7 @@
 ### <div align="center">I'm Daniel, a software developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [Cappih](https://github.com/timetravel-1010/cappih)
+- 🔭 I’m currently working on [Cappih](https://github.com/cravenceiling/cappih)
   
 
 - 🌱 I’m currently learning about Next.js and Go.
@@ -60,7 +60,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/timetravel-1010" target="_blank">
+<a href="https://github.com/cravenceiling" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danielvelezc/" target="_blank">
@@ -73,12 +73,12 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timetravel-1010&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cravenceiling&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=timetravel-1010&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cravenceiling&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <!--
-**timetravel-1010/timetravel-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cravenceiling/cravenceiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
