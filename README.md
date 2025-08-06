@@ -3,7 +3,7 @@
 ### <div align="center">I'm Daniel, a software developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [Cappih](https://github.com/cravenceiling/cappih)
+- 🔭 I’m currently working on [Cappih](https://cappih.vercel.app)
   
 
 - 🌱 I’m currently learning about Next.js and Go.
