@@ -1,2 +1,0 @@
-- Building [Cappih](https://cappih.vercel.app)
-- I use GNU/Linux and Vim btw.
